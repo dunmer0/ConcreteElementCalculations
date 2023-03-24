@@ -1,10 +1,10 @@
 package com.dunmer.Concrete;
 
 public class Concrete {
-    String name;
-    float fck;
-    float E;
-    float fctm;
+    private String name;
+    private float fck;
+    private float E;
+    private float fctm;
 
 
     public Concrete(String name, float fck, float fctm, float e) {
